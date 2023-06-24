@@ -11,4 +11,4 @@ email2:password2
 email3:password3
 ```
 
-2. Run the script with the command: `./mega_refresh.sh`
+2. Run the script with the command: `./megakeep.sh`
